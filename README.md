@@ -98,3 +98,6 @@ Business Impact: Directly impacts the potential for human loss and catastrophic 
 
 Linked to: Finding 3 (Fatalities & Damage Outcomes) and Additional Findings (Safer Aircraft Models/Makes).
 
+An Intercative Tableau Dashboard can be found [here](https://public.tableau.com/app/profile/achieng.otieno/viz/AData-DrivenApproachtoAircraftRiskAssessment/AData-DrivenApproachtoAircraftRiskAssessment)
+
+For any further information, reach out to me via [LinkedIn](https://www.linkedin.com/in/achieng-otieno/)
